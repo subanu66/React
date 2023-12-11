@@ -5,7 +5,7 @@ export default class ClassComponent extends Component{
     {
         return(
             <div>
-                <h1>Hi Everyone</h1>
+                <h1>Hi Everyone !!</h1>
             </div>
         )
     }
